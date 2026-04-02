@@ -199,6 +199,7 @@
 * [cloudsplaining](https://github.com/salesforce/cloudsplaining)
 * [weirdAAL](https://github.com/carnal0wnage/weirdAAL/wiki)
 * [cloudmapper](https://github.com/duo-labs/cloudmapper)
+* [cloud-audit](https://github.com/gebalamariusz/cloud-audit) - Open-source AWS security scanner with attack chain detection and auto-remediation.
 * [NetSPI/AWS_Consoler](https://github.com/NetSPI/aws_consoler)
 ### Benchmarking
 * [AWS Security Benchmark](https://github.com/awslabs/aws-security-benchmark)
